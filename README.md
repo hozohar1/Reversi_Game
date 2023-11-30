@@ -7,3 +7,4 @@ The bot's behavior is determined by the minimax algorithm with alpha-beta prunin
 In the code provided, the human player always goes first. 
 According to the rules of the game, the black player should play first. 
 Let's dive into the game and see if you can defeat the bot!🏆
+<img width="748" alt="צילום מסך 2023-11-30 181612" src="https://github.com/hozohar1/Reversi_Game/assets/116975069/ae915ae8-7d44-4af8-949b-36e0b7ea7df2">
