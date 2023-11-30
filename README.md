@@ -5,6 +5,7 @@ The game involves a match between a bot and a human player.
 The bot's behavior is determined by the minimax algorithm with alpha-beta pruning.
 
 ![Animation_of_alpha-beta_pruning](https://github.com/hozohar1/Reversi_Game/assets/116975069/8583577a-d093-4198-87da-b77474431f69)
+
 In the code provided, the human player always goes first. 
 According to the rules of the game, the black player should play first. 
 Let's dive into the game and see if you can defeat the bot!🏆
